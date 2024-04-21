@@ -1,0 +1,135 @@
+body {
+    margin: 0;
+    padding: 0;
+    font-family: "Raleway" sans-serif;
+}
+
+.navbar {
+    background-color: #373A3C;
+}
+
+#section1 {
+    background-image: url(../img/bg-hero.jpg);
+    height: 630px;
+    background-size: cover;
+    background-repeat: no-repeat;    
+    color: #ffffff;
+    padding-top: 55px;  
+    align-items: end;      
+}
+
+.botones {
+    justify-content: end;
+}
+
+#ts1 {
+    max-width: 2000px;    
+    justify-content: end;
+    width: 500px;
+    margin: auto;
+}
+
+
+
+
+/* #textos1 {    
+    padding-left: 500px;
+    padding-top: 150px;
+    padding-bottom: 234;
+    padding-right: 178px;
+    min-width: 500px;
+    
+    
+} */
+
+
+.B1 {  
+    background-color: rgba(0,0,0,0);  
+}
+
+.B3 {
+    background-color: rgba(0,0,0,0);  
+}
+
+h2 {
+    text-align: center;
+    font-size:50px ;
+}
+
+.card-img {
+    width: 300px;
+    height: 331px;    
+}
+
+#section3 {
+    background-color: #17A2B8;
+    
+}
+
+#ts3 {
+    color: white;
+    font-size: 50px;
+}
+
+h5 {
+    font-size: 26px;
+    font-weight: bold;
+}
+
+.stats {
+    text-align: center;    
+}
+
+#salmon, #papa, #asado {
+    font-size: 26px;
+    font-weight: bold;
+}
+
+#contacto {
+    align-items: center;
+}
+
+#camara {
+    font-size: 50px;
+}
+
+i {
+    font-size: 50px;
+    margin: 37px 0 30px 0;
+}
+
+.tc {
+    font-size: 20px;
+    font-weight: bold;
+    margin-bottom: 40px;
+}
+
+.pc {
+    font-size: 16px;
+    margin-bottom: 80px;
+}
+
+.sc {
+    font-size: 16px;
+}
+
+.tituloc {
+    font-size: 50px;
+    margin-top:66px;
+    margin-bottom: 16px;
+    font-weight: bold;   /* negritas al texto */
+}
+
+.raleway {
+    font-family: "Raleway" , sans-serif;
+}
+
+footer {
+    background-color: #0F0F0F;
+    color: white;
+    height:70px ;
+}
+h5 {
+    padding-top: 25px;
+}
+
